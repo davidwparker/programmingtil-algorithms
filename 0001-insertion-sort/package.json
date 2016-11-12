@@ -1,7 +1,7 @@
 {
-  "name": "00002-merge-sort",
+  "name": "0001-insertion-sort",
   "version": "1.0.0",
-  "description": "Merge Sort Algorithm",
+  "description": "Insertion Sort Algorithm",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
