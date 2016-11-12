@@ -1,7 +1,7 @@
 {
-  "name": "00001-insertion-sort",
+  "name": "0003-heap-data-structure",
   "version": "1.0.0",
-  "description": "Insertion Sort Algorithm",
+  "description": "Heap Data Structure",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
