@@ -13,7 +13,7 @@ function maxHeapify(array, i) {
   var right = 2 * i + 2;
   var temp;
 
-  //
+  // Set the largest to be either left or right
   if (left < array.heapSize && array[left] > array[largest]) {
     largest = left;
   }
@@ -33,7 +33,6 @@ function maxHeapify(array, i) {
 }
 
 function buildMaxHeap(array) {
-  array.heapSize = array.length;
   for (i = Math.ceil(array.length / 2) - 1; i >= 0; i--) {
     maxHeapify(array, i);
   }
@@ -41,7 +40,14 @@ function buildMaxHeap(array) {
 
 function heapSort(array) {
   var temp;
+
+  // Initially, heapSize is the length of the array
+  array.heapSize = array.length;
+
+  // O(n)
   buildMaxHeap(array);
+
+  // O(n-1) * O(lg n) = O(n lg n)
   for (var i = array.length-1; i >= 0; i--) {
     temp = array[0];
     array[0] = array[i];
