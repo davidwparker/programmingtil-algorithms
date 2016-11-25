@@ -1,4 +1,5 @@
-STARTING OFF:
+## STARTING OFF:
+
 Optional: Make sure you have npm installed.
 Or just have node installed.
 Run:
@@ -13,10 +14,12 @@ node index.js
 
 View in console.
 
-CONCEPTS:
+## CONCEPTS:
+
 Heap Sort
 
-RESOURCES:
+## RESOURCES:
+
 * https://github.com/davidwparker/programmingtil-algorithms/tree/master/0004-heap-sort
 * https://en.wikipedia.org/wiki/Heapsort
 * http://www.cs.umd.edu/~meesh/351/mount/lectures/lect13-heapsort.pdf

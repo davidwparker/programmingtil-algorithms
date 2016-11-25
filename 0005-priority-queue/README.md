@@ -31,8 +31,7 @@ Often used in scheduling.
 
 Many data structures can be used to implement a PQ, though often a heap is used.
 
+## RESOURCES:
 
-
-RESOURCES:
 * https://github.com/davidwparker/programmingtil-algorithms/tree/master/0005-priority-queue
 * https://en.wikipedia.org/wiki/PriorityQueue
