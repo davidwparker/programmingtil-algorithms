@@ -1,0 +1,25 @@
+{
+  "name": "0008-counting-sort",
+  "version": "1.0.0",
+  "description": "Counting Sort",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidwparker/programmingtil-algorithms.git"
+  },
+  "keywords": [
+    "programmingtil",
+    "javascript",
+    "algorithms",
+    "datastructures"
+  ],
+  "author": "David Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidwparker/programmingtil-algorithms/issues"
+  },
+  "homepage": "https://github.com/davidwparker/programmingtil-algorithms#readme"
+}
