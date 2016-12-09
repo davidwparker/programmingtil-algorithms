@@ -30,6 +30,6 @@ Queues implements deletion via FIFO.
 
 ## RESOURCES:
 
-* https://github.com/davidwparker/programmingtil-algorithms/tree/master/0010-stacks-and-queues
+* https://github.com/davidwparker/programmingtil-algorithms/tree/master/0011-stacks-and-queues
 * https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
 * https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
