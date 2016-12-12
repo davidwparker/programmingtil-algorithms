@@ -28,6 +28,5 @@ determined by a pointer in each object.
 
 ## RESOURCES:
 
-* https://github.com/davidwparker/programmingtil-algorithms/tree/master/0010-stacks-and-queues
-* https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
-* https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+* https://github.com/davidwparker/programmingtil-algorithms/tree/master/0012-linked-list
+* https://en.wikipedia.org/wiki/Linked_list
